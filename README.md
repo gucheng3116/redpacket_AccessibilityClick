@@ -126,7 +126,7 @@ public class MyAccessibilityService extends AccessibilityService {
 &nbsp; &nbsp; &nbsp;&nbsp;在设置中打开AccessibilityClick的开关后，再进入RedPacket应用，自动就把“红包”拆开了。每次点击“200元”字样后，按钮字样刚变为“查看红包”就会立刻变为“200元”。这个变化的速度非常快以致于看不清楚“查看红包”这几个字。只是一闪而过。
 
 <div align=center> 
-![这里写图片描述](http://img.blog.csdn.net/20170604115808174?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ3VjaGVuZzMxMTY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+<img src="http://img.blog.csdn.net/20170604115808174?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ3VjaGVuZzMxMTY=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 
 最后，总结一下实现安卓辅助功能需要以下几步：
 	&nbsp; &nbsp; &nbsp;&nbsp;a. 实现一个类继承自AccessibilityService
